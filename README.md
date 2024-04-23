@@ -10,7 +10,7 @@ This project utilizes FastAPI and Python for the backend, providing a robust and
 
 ## Features
 
-- **Device Control**: Control smart home devices such as lights, thermostats, and locks from a single interface.
+- **Device Control**: Control smart home devices such as lights, turn on PC, control cameras, send notifications, trigger alarm.
 - **Real-time Updates**: Receive real-time updates on device status and changes.
 - **Authentication**: Secure your smart home with user authentication and authorization.
 - **Responsive Design**: Access the application from any device with a responsive user interface.
@@ -19,7 +19,7 @@ This project utilizes FastAPI and Python for the backend, providing a robust and
 
 ### Requirements
 
-- Raspberry Pi (with Raspbian OS or any compatible distribution)
+- Any Raspberry Pi (with Raspbian OS or any compatible distribution) - I used raspberry pi Zero W for this project
 - Python 3.x
 - Node.js (for frontend development)
 - Git
