@@ -6,9 +6,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from wakeonlan import send_magic_packet
 import os
 
-
-
-
 app = FastAPI()
 
 origins = [
@@ -33,7 +30,6 @@ async def WakeUPPC1():
 @app.get("/getcputemp")
 async def GetCPUTemp():
     return os.popen("vcgencmd measure_temp").read().split("=")[1].split("\n")[0]
-
 
 @app.get("/playbuzzer")
 async def PingBuzzer():
