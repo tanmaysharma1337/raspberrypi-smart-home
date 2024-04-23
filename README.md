@@ -1,6 +1,8 @@
 # Raspberry Pi Smart Home Web Application
 
 This application allows you to control various smart home devices using your Raspberry Pi as the central hub.
+<img src="https://github.com/tanmaysharma1337/raspberrypi-smart-home/assets/159008441/7862c29a-ece2-4c26-9d89-6525e8dbc66a">
+
 
 ## Overview
 
