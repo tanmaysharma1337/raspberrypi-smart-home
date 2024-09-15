@@ -21,7 +21,7 @@ This project utilizes FastAPI and Python for the backend, providing a robust and
 
 - Any Raspberry Pi (with Raspbian OS or any compatible distribution) - I used raspberry pi Zero W for this project
 - Python 3.x
-- Node.js (for frontend development)
+- Apache or any other frontend hosting server
 - Git
 
 ### Setup
